@@ -27,3 +27,7 @@ See [here](https://ai.baidu.com/broad/download?dataset=dureader) to download the
 
 #### Disambiguation-Only Models
 See [here](https://ai.baidu.com/broad/leaderboard?dataset=dureader) to see the leaderboard.
+
+## Speech Recognition
+
+See [here](https://github.com/Nativeatom/NaturalLanguageProcessing)(Multilinguality part) for datasets in Chinese mandarin and dialects.
